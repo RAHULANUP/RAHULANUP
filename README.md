@@ -1,7 +1,11 @@
+![image](https://user-images.githubusercontent.com/98415824/235426775-cf39d77c-fe74-49bb-8055-bb9cda499f69.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Rahul Anup Varma</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<img align="right" src="https://pin.it/75oTL3U" />
+
 
 - 🌱 I’m currently learning **React**
 
