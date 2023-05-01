@@ -7,6 +7,7 @@
 
 
 
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rahulanup03@gmail.com**
@@ -18,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulanup&show_icons=true&locale=en&layout=compact" alt="rahulanup" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulanup&" alt="rahulanup" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulanup&" alt="rahulanup" /></p>
 
 
 
