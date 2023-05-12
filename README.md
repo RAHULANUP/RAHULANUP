@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **rahulanup03@gmail.com**
 
