@@ -10,7 +10,7 @@
 
 
 # About Me
-Currently Learning ReactJS<br>
+Currently Learning NodeJS<br>
 
 
 ## Socials
