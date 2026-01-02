@@ -1,11 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Rahul Anup Varma</h1>
-<h3 align="center">Frontend Developer</h3>
 
 
-
-# About Me
-Currently Learning NodeJS<br>
 
 
 ## Socials
